@@ -22,6 +22,9 @@ Changelog:
   changed like 2 of the zombie noises
   -YOU NEED TO EXTRACT THE FOLDER SO THAT ONCE YOU CLICK ON IT YOU CAN SEE THE FILE NAMED "PACK.MCMETA"-
   
+  https://drive.google.com/open?id=1ntTdn5N5oPTsmUNEhwWvnbGBsjej_ekQ     <(Download Link)
+  
+  
 -V0.2.1
   Fixed the fire sound after realizing that it was sub-par.
   NETHER PORTAL SOUNDS!! Very cool.
@@ -32,9 +35,16 @@ Changelog:
   IDK probably something else that I'm just not remembering.
   -STILL NEED TO EXTRACT. THAT, OR YOU NEED TO MOVE THE FOLDER STRUCTURE SO THAT YOU DON'T SEE THE "ED'S SOUNDS" FOLDER-
   
+  https://drive.google.com/open?id=1JisT6S8KRZwGceilRPMLv1d8Oz5jit50     <(Download Link)
+  
+  
 -V0.2.6
   Cloth, Ladder, Stone, and Wood walking sounds. there are other that will change in a sec.
   "Changed" calm1. Its just a bad cover now, really.
   Changed some of the ghast noises. not all. the steps were a pain in the ass so this is a small one.
+  -YOU DO NOT NEED TO EXTRACT :)-
+  
+  https://drive.google.com/open?id=13NbmCflsPMUYdedypYqF0RpbbgNXyKcD     <(Download Link)
+  
   
   
