@@ -17,7 +17,7 @@ def badname():
         
     else:
         print("Seems ok to me.")
-        goodname = eehee
+        goodname = "eehee"
         
         
 def main():
