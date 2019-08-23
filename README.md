@@ -46,5 +46,7 @@ Changelog:
   
   https://drive.google.com/open?id=13NbmCflsPMUYdedypYqF0RpbbgNXyKcD     <(Download Link)
   
-  
-  
+    
+-V.2.4
+  It has come to my attention that I have the stupid syndrome, and have accidentally used "stereo" sounds instead of mono (my mic is mono but audacity must've thought otherwise). This means that all sounds that are played in minecraft use the sterio format, and have no depth to them, making them sound like absolute shit. This has hereby been revised and fixed, through the most paingul system ever. one at a time.
+  not yet completed
