@@ -47,6 +47,20 @@ Changelog:
   https://drive.google.com/open?id=13NbmCflsPMUYdedypYqF0RpbbgNXyKcD     <(Download Link)
   
     
--V.2.4
+-V.3.1
   It has come to my attention that I have the stupid syndrome, and have accidentally used "stereo" sounds instead of mono (my mic is mono but audacity must've thought otherwise). This means that all sounds that are played in minecraft use the sterio format, and have no depth to them, making them sound like absolute shit. This has hereby been revised and fixed, through the most paingul system ever. one at a time.
   not yet completed
+  
+  Holy fuck. I slacked the fuck off so it took forever for this update to come out, But that dosen't mean that I did little on it. Or maybe I did. You can be the judge of that.
+  Added the ghast "moans" but it's still not completed yet.
+  Fixed ALL of the soundfiles (excluding some ambient and menu noises) by making them into Mono so that Minecraft can understand them as 3d.
+  I Cried for hours on end after realizing that the pack that I was originally working on, 1.12, only had about 600 sounds for me to change, but now 1.14 has just a couple more at a comfortable 1,500.
+  Reduce package size by removing unnecicarry sound files. It is only about 50 MB now.
+  Added a few new songs that aren't that good, but'll get the job done.
+  fixed some noises that weren't loud enough
+  rain now exists
+
+  I also now have a website: edsmcserv.com
+  the downloads can be found there.
+  https://edsmcserv.com/sound/pack/specific/Eds_Sounds.V0.3.1.zip
+  Drive Link: https://drive.google.com/open?id=19IBei2zTYZF3vFrXWuTceHg3zHpLWzsh
