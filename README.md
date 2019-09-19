@@ -59,6 +59,10 @@ Changelog:
   Added a few new songs that aren't that good, but'll get the job done.
   fixed some noises that weren't loud enough
   rain now exists
+  Also updated the Logo. Much better.
+  
+  !!!!I acidentally made the "stone1" walking sound also contain all of the sounds.!!!!
+  (I changed the one on my website, but it'll take forever to reupload to drive.)
 
   I also now have a website: edsmcserv.com
   the downloads can be found there.
