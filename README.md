@@ -23,6 +23,7 @@ Changelog:
   -YOU NEED TO EXTRACT THE FOLDER SO THAT ONCE YOU CLICK ON IT YOU CAN SEE THE FILE NAMED "PACK.MCMETA"-
   
   https://drive.google.com/open?id=1ntTdn5N5oPTsmUNEhwWvnbGBsjej_ekQ     <(Download Link)
+  My Server: (https://edsmcserv.com/sound/pack/specific/EdsSounds.V0.1.1.zip)
   
   
 -V0.2.1
@@ -36,6 +37,7 @@ Changelog:
   -STILL NEED TO EXTRACT. THAT, OR YOU NEED TO MOVE THE FOLDER STRUCTURE SO THAT YOU DON'T SEE THE "ED'S SOUNDS" FOLDER-
   
   https://drive.google.com/open?id=1JisT6S8KRZwGceilRPMLv1d8Oz5jit50     <(Download Link)
+  My Server: (https://edsmcserv.com/sound/pack/specific/EdsSounds.V0.2.1.zip)
   
   
 -V0.2.6
@@ -45,6 +47,7 @@ Changelog:
   -YOU DO NOT NEED TO EXTRACT :)-
   
   https://drive.google.com/open?id=13NbmCflsPMUYdedypYqF0RpbbgNXyKcD     <(Download Link)
+  My Server: (https://edsmcserv.com/sound/pack/specific/EdsSounds.V0.2.6.zip)
   
     
 -V.3.1
@@ -66,5 +69,11 @@ Changelog:
 
   I also now have a website: edsmcserv.com
   the downloads can be found there.
-  https://edsmcserv.com/sound/pack/specific/Eds_Sounds.V0.3.1.zip
-  Drive Link: https://drive.google.com/open?id=19IBei2zTYZF3vFrXWuTceHg3zHpLWzsh
+  My Server: https://edsmcserv.com/sound/pack/specific/Eds_Sounds.V0.3.1.zip (fixed stone noise)
+  Drive Link: https://drive.google.com/open?id=19IBei2zTYZF3vFrXWuTceHg3zHpLWzsh (Still Broken Stone Noise)
+  
+  
+  
+  
+  !!--
+  Some of the most recently updated, but maybe broken and untested versions can be found at: https://edsmcserv.com/sound/pack/other/soundsIncomplete.zip . Please only use if you're desprate to hear the shitty noises I snuck in after the most recent actual recorded release above. CHANGES FREQUENTLY.
