@@ -50,7 +50,7 @@ Changelog:
   My Server: (https://edsmcserv.com/sound/pack/specific/EdsSounds.V0.2.6.zip)
   
     
--V.3.1
+-V0.3.1
   It has come to my attention that I have the stupid syndrome, and have accidentally used "stereo" sounds instead of mono (my mic is mono but audacity must've thought otherwise). This means that all sounds that are played in minecraft use the sterio format, and have no depth to them, making them sound like absolute shit. This has hereby been revised and fixed, through the most painful system ever. one at a time.
   not yet completed
   
@@ -71,6 +71,19 @@ Changelog:
   the downloads can be found there.
   My Server: https://edsmcserv.com/sound/pack/specific/Eds_Sounds.V0.3.1.zip (fixed stone noise)
   Drive Link: https://drive.google.com/open?id=19IBei2zTYZF3vFrXWuTceHg3zHpLWzsh (Still Broken Stone Noise)
+  
+  
+-V0.3.3
+  Ooga Booga! I need to slow down how much I ramp up the version numbers now that there are more sounds. This will begin starting now.
+  I'd like to preface this with I probably did something here, but I have forgotten it.
+  I really Hated the thunder noise, so I went outside, and I recorded some thunder. It's ok, but not good. Better than slurp noises.
+  I Managed to get a friend of mine to record some noises for the horse, and quite frankly, it's beautiful. Not completed though (walking noises & co.).
+  I also managed to get a Friend to record Pillager noises. Except now they're mormons. enjoy.
+  Also: Me be keepy date 4 releases now. 10/13/2019
+  
+  Drive Link: (this is where the drive link will go if I put it here ever)    <(Download Link)
+  My Server: https://edsmcserv.com/sound/pack/specific/Eds_Sounds.V0.3.3.zip
+  
   
   
   
