@@ -84,7 +84,13 @@ Changelog:
   Drive Link: (this is where the drive link will go if I put it here ever)    <(Download Link)
   My Server: https://edsmcserv.com/sound/pack/specific/Eds_Sounds.V0.3.3.zip
   
+-V0.3.4
+  Small Update-- I was just proud of my new music for what used to be "Ward"
+  Paranoid Sheep? paranoid sheep. we were gonna do something else, but the sheep only had like 4 sound files to work with, so we made do.
+  Bow twang noise. That's all.
+  As mentioned above, the record for the jukebox labled "Ward" is an epic song that I made. The record "Wait" is the music without the verbal audio. These are in stereo, but I don't remember if that actually does anything with jukeboxes (aka. if you walk away does it normally get quieter?)
   
+  My Server: https://edsmcserv.com/sound/pack/specific/Eds_Sounds.V0.3.4.zip
   
   
   
