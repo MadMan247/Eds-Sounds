@@ -79,7 +79,7 @@ Changelog:
   I really Hated the thunder noise, so I went outside, and I recorded some thunder. It's ok, but not good. Better than slurp noises.
   I Managed to get a friend of mine to record some noises for the horse, and quite frankly, it's beautiful. Not completed though (walking noises & co.).
   I also managed to get a Friend to record Pillager noises. Except now they're mormons. enjoy.
-  Also: Me be keepy date 4 releases now. 10/13/2019
+  Also: Me be keepy date 4 releases now. Compiled: 10/13/2019
   
   Drive Link: (this is where the drive link will go if I put it here ever)    <(Download Link)
   My Server: https://edsmcserv.com/sound/pack/specific/Eds_Sounds.V0.3.3.zip
@@ -89,6 +89,7 @@ Changelog:
   Paranoid Sheep? paranoid sheep. we were gonna do something else, but the sheep only had like 4 sound files to work with, so we made do.
   Bow twang noise. That's all.
   As mentioned above, the record for the jukebox labled "Ward" is an epic song that I made. The record "Wait" is the music without the verbal audio. These are in stereo, but I don't remember if that actually does anything with jukeboxes (aka. if you walk away does it normally get quieter?)
+  Compiled: 10/15/2019
   
   My Server: https://edsmcserv.com/sound/pack/specific/Eds_Sounds.V0.3.4.zip
   
