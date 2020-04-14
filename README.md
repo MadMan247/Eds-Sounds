@@ -8,7 +8,7 @@ The general idea is that untill it says ".V1.0" it will have a large number of t
 
 Keep in mind that i'm stupid, and steali- borrowing the files and file layouts from the minecraft directory, but somehow it still says 
 that it's an older version of minecraft, and, Quite frankly, I don't care enough to fix it. It works; that's what matters. If I do find
-out how to fix it one day, I will.
+out how to fix it one day, I will. (Update: Fixed as of V0.3.1)
 
 Changelog:
 
