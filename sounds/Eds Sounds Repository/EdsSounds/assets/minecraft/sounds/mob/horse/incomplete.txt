@@ -1,0 +1,7 @@
+subfolders,
+armor
+gallop
+jump
+land
+leather
+walk
