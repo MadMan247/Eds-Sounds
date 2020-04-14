@@ -51,8 +51,7 @@ Changelog:
   
     
 -V0.3.1
-  It has come to my attention that I have the stupid syndrome, and have accidentally used "stereo" sounds instead of mono (my mic is mono but audacity must've thought otherwise). This means that all sounds that are played in minecraft use the sterio format, and have no depth to them, making them sound like absolute shit. This has hereby been revised and fixed, through the most painful system ever. one at a time.
-  not yet completed
+  It has come to my attention that I have the stupid syndrome, and have accidentally used "stereo" sounds instead of mono (my mic is mono but audacity must've thought otherwise). This means that all sounds that are played in minecraft use the stereo format, and have no depth to them, making them sound like absolute shit. This has hereby been revised and fixed, through the most painful system ever. one at a time.
   
   Holy fuck. I slacked the fuck off so it took forever for this update to come out, But that dosen't mean that I did little on it. Or maybe I did. You can be the judge of that.
   Added the ghast "moans" but it's still not completed yet.
@@ -65,7 +64,7 @@ Changelog:
   Also updated the Logo. Much better.
   
   !!!!I acidentally made the "stone1" walking sound also contain all of the sounds.!!!!
-  (I changed the one on my website, but it'll take forever to reupload to drive.)
+  (I changed the one on my website, but it'll take forever to reupload to drive. Next release will have them fixed.)
 
   I also now have a website: edsmcserv.com
   the downloads can be found there.
