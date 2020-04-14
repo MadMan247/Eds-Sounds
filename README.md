@@ -93,7 +93,13 @@ Changelog:
   
   My Server: https://edsmcserv.com/sound/pack/specific/Eds_Sounds.V0.3.4.zip
   
+-V0.3.5
+I'm back bitch, after 6 fucking months.
+Silverfish? Pretty annoying, right? Kids, Pretty annoying, right? Kaboom. Combine those bitches.
+Ghast is completed. Angry Birds are nothing compared to these.
+Compiled: 4/13/2020
   
+  My Server: https://edsmcserv.com/sound/pack/specific/Eds_Sounds.V0.3.5.zip
   
   !!--
   Some of the most recently updated, but maybe broken and untested versions can be found at: https://edsmcserv.com/sound/pack/other/soundsIncomplete.zip . Please only use if you're desprate to hear the shitty noises I snuck in after the most recent actual recorded release above. CHANGES FREQUENTLY.
